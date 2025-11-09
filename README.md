@@ -1,3 +1,3 @@
-# Práctica Cilium Network Policy
+# Práctica Cilium
 
-[Clic este enlace para la práctica](https://github.com/alvarolinarescabre/practica-cilium-netpol/wiki)
+[Clic este enlace para la práctica](https://github.com/alvarolinarescabre/practica-cilium/wiki)
